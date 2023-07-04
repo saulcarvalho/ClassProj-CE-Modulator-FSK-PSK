@@ -12,13 +12,16 @@ The hardware used in this project was a PYNQ-Z2 with a Xilinx FPGA, a ZYNQ7020.
   <img width="300" src="https://github.com/saulcarvalho/CE_Modulator_FSK_PSK/blob/main/img/pynq_z2.png"/>
 </p>
 
+
 ## Programmable Logic (PL)
 
-Only partial files in Verilog and VHDL have been provided in PL folder, as the full project is too big to be added to GitHub. Additionally, .tcl, .bit, and .hwh files have been provided, and can be uploaded to a Jupyter Notebook server on a Linux SD card to test the functionality of the developed PL program. Obviously, this would only work seamlessly for PYNQ-Z2.
+Only partial files in Verilog and VHDL have been provided in PL folder, as the full project is too big to be added to GitHub. 
+
 
 ## Processing System (PS)
 
 Full code used in Jupyter Notebook, inside the SD card running with the FPGA, has been provided in PS folder.
+
 
 ## Improvements / To do
 
