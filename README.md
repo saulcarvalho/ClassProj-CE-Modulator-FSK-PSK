@@ -2,6 +2,8 @@
 
 Disclaimer: Some aspects of the code are not perfect and need optimization.
 
+
+
 ## Hardware
 
 The hardware used in this project was a PYNQ-Z2 with a Xilinx FPGA, a ZYNQ7020.
@@ -12,7 +14,7 @@ The hardware used in this project was a PYNQ-Z2 with a Xilinx FPGA, a ZYNQ7020.
 
 ## Programmable Logic (PL)
 
-Only partial files in Verilog and VHDL have been provided in PL folder, as the full project is too big to be added to GitHub.
+Only partial files in Verilog and VHDL have been provided in PL folder, as the full project is too big to be added to GitHub. Additionally, .tcl, .bit, and .hwh files have been provided, and can be uploaded to a Jupyter Notebook server on a Linux SD card to test the functionality of the developed PL program. Obviously, this would only work seamlessly for PYNQ-Z2.
 
 ## Processing System (PS)
 
