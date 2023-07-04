@@ -14,3 +14,6 @@ The hardware used in this project was a PYNQ-Z2 with a Xilinx FPGA, a ZYNQ7020.
 
 Only partial files in Verilog and VHDL have been provided, as the full project is too big to be added to GitHub.
 
+## Improvements / To do
+
+The data transfer from the PS to PL was done with the GPIO and needs to be properly done with the DMA by defining and accessing the addresses.
