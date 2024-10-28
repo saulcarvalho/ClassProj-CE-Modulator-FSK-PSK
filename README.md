@@ -1,4 +1,4 @@
-# CE_Modulator_FSK_PSK
+# FSK and PSK Modulators
 
 Disclaimer: Some aspects of the code are not perfect and need optimization.
 
